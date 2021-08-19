@@ -7,6 +7,8 @@ while(true){
     System.out.println("Listen to music while programming");
 }
 ```
+![alt text][logo]
+[logo]: https://tenor.com/view/pepe-pepe-the-frog-listening-to-music-dance-grooving-gif-16927052 "Logo Title Text 2"
 
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
