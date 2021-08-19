@@ -7,7 +7,6 @@ while(true){
     System.out.println("Listen to music while programming");
 }
 ```
-Reference-style: 
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/listenToMusic.PNG "Logo Title Text 1")
 
 <!--
