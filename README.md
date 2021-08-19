@@ -4,7 +4,7 @@
 
 ```java
 while(true){
-    System.out.println("Listen to music while programming");
+    System.out.println("I always listen to music while programming");
 }
 ```
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "Logo Title Text 1")
