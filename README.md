@@ -1,7 +1,13 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Dripbox](https://github.com/Ktechen/Dripbox)
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) 
-- ![alt text](https://tenor.com/view/pepe-pepe-the-frog-listening-to-music-dance-grooving-gif-16927052 "Logo Title Text 1")
+
+```java
+while(true){
+    System.out.println("Listen to music while programming");
+}
+```
+
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
