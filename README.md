@@ -8,7 +8,7 @@ while(true){
 }
 ```
 Reference-style: 
-![alt text](https://tenor.com/view/pepe-pepe-the-frog-listening-to-music-dance-grooving-gif-16927052 "Logo Title Text 1")
+![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/listenToMusic.PNG "Logo Title Text 1")
 
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
