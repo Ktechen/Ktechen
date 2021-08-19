@@ -8,6 +8,7 @@ while(true){
 }
 ```
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up")
+[TRUST ME](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) 
 
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
