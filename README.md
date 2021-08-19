@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on dripbox
+- 🌱 I’m currently learning typescript
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
