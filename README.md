@@ -8,7 +8,7 @@ while(true){
 }
 ```
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up")
-[`TRUST ME`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+[`Dance off`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
