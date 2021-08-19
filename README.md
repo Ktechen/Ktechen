@@ -7,7 +7,7 @@ while(true){
     System.out.println("I always listen to music while programming");
 }
 ```
-![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "AYAYAYA")
+![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up")
 
 <!--
 **Ktechen/Ktechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
