@@ -9,14 +9,6 @@ while(true){
 }
 ```
 
-```ruby
-
-loop do 
-    puts "I always listen to music while programming"
-end
-
-```
-
 
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up")
 [`Dance off`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
