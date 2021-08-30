@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) 
 
 ```java
-while(true){
+while(true) {
     System.out.println("I always listen to music while programming");
 }
 ```
