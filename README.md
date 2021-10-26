@@ -1,6 +1,6 @@
 ### Hi there ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "never gonna give you up")
 
-- 🔭 I’m currently working on ESP32 and MSP430
+- 🔭 I’m currently working on ESP32, MSP430 and Raspberry Pi 4
 - 🌱 I’m currently learning C/C++ (zephyr), Java (Spring)
 
 ```java
