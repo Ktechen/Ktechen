@@ -13,6 +13,11 @@ while(true) {
 ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up")
 [`Dance off`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
+|         |            | 
+| ------------- |:-------------:| 
+|   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />      | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark" /> | 
+
+<!--
 <a href="https://github.com/Ktechen">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark" />
