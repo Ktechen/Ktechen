@@ -25,11 +25,11 @@ public class User {
     
     private String[] frameworks = {
         "Spring boot", "Ruby on Rails", ".Net"
-    }
+    };
 
     private String[] education = {
         "FiSi", "5. Semester Computer Science"
-    }
+    };
 }
 
 ```
