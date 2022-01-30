@@ -19,7 +19,7 @@ public class User {
     private final String name = "Kevin";
     private final LocalDate birthday = localDate.of(1998, Month.JANUARY, 8);
     
-    private String[] softwareLanguage = {
+    private String[] programmingLanguages = {
         "Java", "C#", "JS", "CSS", "Html"
     };
     
