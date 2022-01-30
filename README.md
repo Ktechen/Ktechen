@@ -1,12 +1,37 @@
 ### Hello there ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "never gonna give you up")
 
-- 🔭 I’m currently working on ESP32, MSP430 and Raspberry Pi 4
-- 🌱 I’m currently learning C/C++ (zephyr), Java (Spring)
+- 🔭 I’m currently working with ESP32, MSP430 and Raspberry Pi 4
+- 🌱 I’m currently learning C#(.Net), Java (Spring)
 
 ```java
-while(true) {
-    System.out.println("I always listen to music while programming");
+
+package com.preview.model;
+
+import lombok.*;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+@ToString
+public class User {
+
+    private final String name = "Kevin";
+    private final LocalDate birthday = localDate.of(1998, Month.JANUARY, 8);
+    
+    private String[] softwareLanguage = {
+        "Java", "C#", "JS", "CSS", "Html"
+    };
+    
+    private String[] frameworks = {
+        "Spring boot", "Ruby on Rails", ".Net"
+    }
+
+    private String[] education = {
+        "FiSi", "5. Semester Computer Science"
+    }
 }
+
 ```
 
 
