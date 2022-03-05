@@ -44,4 +44,4 @@ public class User {
 | ------------- |:-------------:| 
 |   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />      | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark" /> | 
 
-updated: 30.01.2022
+updated: 05.03.2022
