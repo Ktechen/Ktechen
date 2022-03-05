@@ -28,7 +28,7 @@ public class User {
     };
 
     private String[] education = {
-        "FiSi", "5. Semester Computer Science"
+        "FiSi", "6. Semester Computer Science"
     };
 }
 
