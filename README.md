@@ -46,5 +46,6 @@ public class User {
 |   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />      | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark" /> | 
 
 [![github activity graph doesnt work](https://activity-graph.herokuapp.com/graph?username=ktechen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktechen&label=Profile%20views&color=0e75b6&style=flat" alt="ktechen" /> </p>
+|         |            | 
+| ------------- |:-------------:| 
+| <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktechen&label=Profile%20views&color=0e75b6&style=flat" alt="ktechen" /> </p> | <img height="40" width="40" src="https://github.com/Ktechen/Ktechen/blob/main/picture/poggers-pepe.gif"> |
