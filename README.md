@@ -1,7 +1,7 @@
 ### Hello there ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "never gonna give you up")
 
 - 🔭 I’m currently working with ESP32, MSP430 and Raspberry Pi 4
-- 🌱 I’m currently learning C#(.Net) and Java (Spring)
+- 🌱 I’m currently learning C#(.Net & Unity) and JavaScript
 
 ```java
 
