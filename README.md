@@ -27,7 +27,7 @@ public class User {
         "Spring boot", "Ruby on Rails", ".Net"
     };
 
-    private String[] education = {
+    private String[] educations = {
         "FiSi", "6. Semester Computer Science"
     };
 }
