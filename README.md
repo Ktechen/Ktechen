@@ -24,7 +24,7 @@ public class User {
     };
     
     private String[] frameworks = {
-        "Spring boot", "Ruby on Rails", ".Net"
+        "Spring boot", "Ruby on Rails", ".Net core" , "Unity"
     };
 
     private String[] educations = {
