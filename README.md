@@ -29,6 +29,8 @@ public class User
         return $"Name: {Name}, Birthday: {Birthday}, ProgrammingLanguages: {string.Join(", ", ProgrammingLanguages)}, Frameworks: {string.Join(", ", Frameworks)}, Educations: {string.Join(", ", Educations)}";
     }
 }
+
+//Java suckt
 ```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ktechen&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
