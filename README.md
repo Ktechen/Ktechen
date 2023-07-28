@@ -5,6 +5,7 @@
 
 ```csharp
 using System;
+using System.Collections.Generic;
 
 public class User
 {
@@ -12,13 +13,13 @@ public class User
     {
         Name = "Kevin";
         Birthday = new DateTime(1998, 1, 8);
-        ProgrammingLanguages = new string[] { "Java", "C#", "JS", "CSS", "Html" };
-        Frameworks = new string[] { "Spring boot", ".Net core", "Unity" };
-        Educations = new string[] { "FiSi", "8. Semester Computer Science" };
+        ProgrammingLanguages = new List<string> { "Java", "C#", "JS", "CSS", "Html" };
+        Frameworks = new List<string> { "Spring boot", ".Net core", "Unity" };
+        Educations = new List<string> { "FiSi", "8. Semester Computer Science" };
     }
 
     public string Name { get; init; }
-    public DateTime Birthday { get; init; } 
+    public DateTime Birthday { get; init; }
     public IEnumerable<string> ProgrammingLanguages { get; init; }
     public IEnumerable<string> Frameworks { get; init; }
     public IEnumerable<string> Educations { get; init; }
@@ -28,8 +29,6 @@ public class User
         return $"Name: {Name}, Birthday: {Birthday}, ProgrammingLanguages: {string.Join(", ", ProgrammingLanguages)}, Frameworks: {string.Join(", ", Frameworks)}, Educations: {string.Join(", ", Educations)}";
     }
 }
-
-
 ```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ktechen&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
