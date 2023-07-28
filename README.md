@@ -1,36 +1,37 @@
 ### Hello there ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "never gonna give you up")
 
 - 🔭 I’m currently working with C#(.Net & Unity)
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working on Minecraft-Server 
 
-```java
+```csharp
+using System;
 
-package com.preview.model;
+public class User
+{
 
-import lombok.*;
 
-@NoArgsConstructor
-@AllArgsConstructor
-@Getter
-@Setter
-@ToString
-public class User {
+    public User()
+    {
+        Name = "Kevin";
+        Birthday = new DateTime(1998, 1, 8);
+        ProgrammingLanguages = new string[] { "Java", "C#", "JS", "CSS", "Html" };
+        Frameworks = new string[] { "Spring boot", ".Net core", "Unity" };
+        Educations = new string[] { "FiSi", "8. Semester Computer Science" };
+    }
 
-    private final String name = "Kevin";
-    private final LocalDate birthday = localDate.of(1998, Month.JANUARY, 8);
-    
-    private String[] programmingLanguages = {
-        "Java", "C#", "JS", "CSS", "Html"
-    };
-    
-    private String[] frameworks = {
-        "Spring boot", "Ruby on Rails", ".Net core" , "Unity"
-    };
+    public string Name { get; init; }
+    public DateTime Birthday { get; init; } 
+    public IEnumerable<string> ProgrammingLanguages { get; init; }
+    public IEnumerable<string> Frameworks { get; init; }
+    public IEnumerable<string> Educations { get; init; }
 
-    private String[] educations = {
-        "FiSi", "6. Semester Computer Science"
-    };
+
+    public override string ToString()
+    {
+        return $"Name: {Name}, Birthday: {Birthday}, ProgrammingLanguages: {string.Join(", ", ProgrammingLanguages)}, Frameworks: {string.Join(", ", Frameworks)}, Educations: {string.Join(", ", Educations)}";
+    }
 }
+
 
 ```
 
