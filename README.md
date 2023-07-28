@@ -8,8 +8,6 @@ using System;
 
 public class User
 {
-
-
     public User()
     {
         Name = "Kevin";
@@ -24,7 +22,6 @@ public class User
     public IEnumerable<string> ProgrammingLanguages { get; init; }
     public IEnumerable<string> Frameworks { get; init; }
     public IEnumerable<string> Educations { get; init; }
-
 
     public override string ToString()
     {
