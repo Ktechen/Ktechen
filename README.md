@@ -18,7 +18,7 @@ public class User
         Educations = new List<string> { "FiSi", "8. Semester Computer Science" };
     }
 
-    public string Name { get; init; }
+    public String Name { get; init; }
     public DateTime Birthday { get; init; }
     public IEnumerable<string> ProgrammingLanguages { get; init; }
     public IEnumerable<string> Frameworks { get; init; }
