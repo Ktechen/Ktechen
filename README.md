@@ -1,11 +1,49 @@
-| Title | Infomation/Action |
-| ---------- | ------ |
-| Hello there ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "never gonna give you up") | -🔭 I’m currently leveraging C# to develop advanced solutions in the business environment. <br>- 🌱 I’m currently working on LegoTrainManager and ASP.NET Core App |
-| **GitHub Trophies** | [![trophy](https://github-profile-trophy.vercel.app/?username=ktechen&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) |
-| **Languages and Tools:** | <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="aspnetcore" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Xamarin_logo.svg" alt="maui" width="40" height="40"/> </a> |
-| ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "never gonna give you up") | [`Dance off`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| **Stats** | **Code** |
-| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark" /> |
-| **Views** | **Result** |
-| <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktechen&label=Profile%20views&color=0e75b6&style=flat" alt="ktechen" /> </p> | <img height="40" width="40" src="https://github.com/Ktechen/Ktechen/blob/main/picture/poggers-pepe.gif"> |
+# Hello there! ![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepe-pepe-the-frog.gif "Welcome to my profile!")
+
+🔭 I’m currently leveraging **C#** to develop advanced solutions in the business environment.  
+🌱 I’m currently working on **LegoTrainManager** and **ASP.NET Core App**.  
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktechen&theme=juicyfresh&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔧 Languages and Tools
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Core" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/WPF_Logo.png" alt="WPF" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ktechen&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktechen&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
+</div>
+
+---
+
+## 👀 Profile Views
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ktechen&label=Profile%20views&color=0e75b6&style=flat" alt="ktechen" /></p>
+
+---
+
+## 🔥 Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktechen&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🎉 Fun Zone
+![alt text](https://github.com/Ktechen/Ktechen/blob/main/picture/pepo-jam-pepe.png "Enjoy the groove!")
+[Dance Off 🎵](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
